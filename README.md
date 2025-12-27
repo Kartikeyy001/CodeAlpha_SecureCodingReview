@@ -21,5 +21,5 @@ Tools Used:
 - Manual security code review
 
 Author:
-<Kartik Gupta>
+Kartik Gupta
 CodeAlpha Cyber Security Internship
