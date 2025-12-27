@@ -1,2 +1,25 @@
 # CodeAlpha_SecureCodingReview
-This project is part of the CodeAlpha Cyber Security Internship Task 3: Secure Coding Review. A Python-based login system was reviewed to identify security flaws such as hardcoded credentials and plaintext passwords. Secure coding techniques like password hashing were applied to improve authentication and enhance overall application security.
+Project Name: Secure Coding Review – Python Login System
+
+Description:
+This project demonstrates a secure coding review of a vulnerable Python login system.
+The insecure version contained hardcoded credentials and plaintext passwords.
+
+Vulnerabilities Identified:
+- Hardcoded credentials
+- Plaintext password comparison
+- Lack of secure password storage
+
+Security Improvements:
+- Implemented SHA-256 password hashing
+- Removed plaintext password comparison
+- Improved authentication logic
+
+Tools Used:
+- Python
+- hashlib
+- Manual security code review
+
+Author:
+<Kartik Gupta>
+CodeAlpha Cyber Security Internship
